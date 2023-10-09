@@ -1,0 +1,18 @@
+# блокируем все локализации кроме русской и английской
+*.*-*.json
+!*.ru-RU.json
+!*.en-US.json
+
+*.*-*.xml
+!*.ru-RU.xml
+!*.en-US.xml
+
+placeholder.txt
+
+/Gpn.ModalTask
+/GPNDVAKR_Org
+/GPN.Stimulsoft
+jsconfig.json
+.creatio-lens-types
+.mp4
+.zip
